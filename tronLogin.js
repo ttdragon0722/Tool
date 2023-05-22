@@ -1,0 +1,1 @@
+javascript: void (function (d) {    const username = document.getElementsByName("username")[0];    const password = document.getElementsByName("password")[0];    const submit = document.getElementsByName("submit")[0];    username.value = "s1111032026";    password.value = "1111032026";    submit.disabled = false;    submit.click();})(document)
